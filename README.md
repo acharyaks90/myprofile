@@ -1,14 +1,15 @@
 Anil Kumar
 ===
 Mob: - +918930068008 . 
-[Website]: http://www.anilkumarsuryavanshi.wordpress.com . 
-Faridabad Haryana  
+[Website]: https://anilks.com 
+Pune Maharashtra  
 
       
 Experience Summary
-===  
-* Working in HTC Global Services Gurgaon as Front End Developer.(  Sr.Software Engineer) from 05-Oct-2016
-*	Worked in Xchanging Technology Services India Pvt. Ltd. Gurgaonas AngularJS Developer (Jr. Software Engineer) from 03-Aug-2015 to 26 Aug 2016.
+===   Working in LTIMINDTREE PVT. LTD. 
+*     Worked in Builder.ai 
+*     Worked in HTC Global Services Gurgaon as Front End Developer.(  Sr.Software Engineer) from 05-Oct-2016 
+*	Worked in Xchanging Technology Services India Pvt. Ltd. Gurugram AngularJS Developer (Jr. Software Engineer) from 03-Aug-2015 to 26 Aug 2016.
 *	Worked in HCL SERVICE LTD.  NOIDA.  As UI Developer (System Assistant) from 15-Jan-2014 to 30-July-2015.
 
 ## Professional Target
@@ -17,11 +18,11 @@ Result oriented individual with superior strengths in utilizing broad experience
 Working Skills
 ==
 ## Languages 	 
-Java Script, CSS,  HTML5, Basic C++,  Type Script, NativeScript Mobile
+Java Script, CSS,  HTML5, Type Script, NativeScript Mobile
 ## Technologies	
-Angular2~(7), , AngularJS, jQuery, Bootstrap, Basic Wordpress , Ajax, Single Page Applications (SPA), OOPs Development, Unit Testing, Kendo UI, Gulp/Grunt/WebPack,  ng-cli, Basic Ionic, Basic React Js &Native , Hybrid Apps, NativeScript
+Angular2~(19), , AngularJS, jQuery, Bootstrap, Basic Wordpress , Ajax, Single Page Applications (SPA), OOPs Development, Unit Testing, Kendo UI, Gulp/Grunt/WebPack,  ng-cli, Basic Ionic, Basic React Js &Native , Hybrid Apps, NativeScript
 ## Database Transaction APIs	
-MySql, PhpMyadmin, HeidiSQL, Oracle Sql Developer
+MySql, PhpMyadmin, HeidiSQL, Oracle Sql Developer, Postgres
 ## Operating System	
 Windows, Linux (Ubuntu, Redhat ),UNIX/Windows command line environment, Mac OS
 ## Remote Tools	
