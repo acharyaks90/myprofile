@@ -9,8 +9,8 @@ Experience Summary
 ===   Working in LTIMINDTREE PVT. LTD. 
 *     Worked in Builder.ai 
 *     Worked in HTC Global Services Gurgaon as Front End Developer.(  Sr.Software Engineer) from 05-Oct-2016 
-*	Worked in Xchanging Technology Services India Pvt. Ltd. Gurugram AngularJS Developer (Jr. Software Engineer) from 03-Aug-2015 to 26 Aug 2016.
-*	Worked in HCL SERVICE LTD.  NOIDA.  As UI Developer (System Assistant) from 15-Jan-2014 to 30-July-2015.
+*	  Worked in Xchanging Technology Services India Pvt. Ltd. Gurugram AngularJS Developer (Jr. Software Engineer) from 03-Aug-2015 to 26 Aug 2016.
+*	  Worked in HCL SERVICE LTD.  NOIDA.  As UI Developer (System Assistant) from 15-Jan-2014 to 30-July-2015.
 
 ## Professional Target
 Result oriented individual with superior strengths in utilizing broad experience and creative strategies to facilitate successful completion of corporate objectives. Committed to grow in an organization, this will profitably utilize my talents and energy.
